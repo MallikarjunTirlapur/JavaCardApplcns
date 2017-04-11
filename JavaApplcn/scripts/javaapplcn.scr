@@ -1,0 +1,10 @@
+//Test script for Applet 'JavaApplcn'
+
+powerup;
+// Select JavaApplcn //aid/379438E8DC/C90571
+0x00 0xA4 0x04 0x00 0X08 0X37 0X94 0X38 0XE8 0XDC 0XC9 0X05 0X72 0x7F;
+
+//Send the APDU here
+//0x80 0xCA 0x00 0x00 <length> <data> 0x7F;
+
+powerdown;
